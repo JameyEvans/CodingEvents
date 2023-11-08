@@ -17,6 +17,7 @@
     <None Remove="Microsoft.EntityFrameworkCore.Design" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="Migrations\" />
     <Folder Include="Views\Events\" />
     <Folder Include="ViewModels\" />
   </ItemGroup>
